@@ -6,17 +6,28 @@
 
 ## Descrição
 
-O DESBreaker é uma ferramenta poderosa para gerar e quebrar senhas utilizando a criptografia DES. Este projeto utiliza multithreading para testar senhas em três diferentes contextos, proporcionando uma abordagem eficiente para análise de segurança.
+O DESBreaker é uma ferramenta desenvolvida para gerar palavras e quebrar senhas usando a criptografia DES com suporte a multithreading. Este projeto simula três contextos de senhas em uma aplicação insegura.
 
-## Funcionalidades
+## Projeto
 
-- Geração de palavras-chave DES
-- Quebra de senhas utilizando criptografia DES
-- Suporte a multithreading para análise eficiente
+- **Desbreaker:** Contém o código-fonte para a ferramenta DESBreaker.
+- **InsecureApplication:** Aplicação insegura para simulação de contextos de senhas.
 
-## Como Usar
+## Como Funciona
 
-1. Clone o repositório:
+O DESBreaker utiliza técnicas avançadas para gerar palavras e quebrar senhas criptografadas usando DES. A aplicação insegura fornece um ambiente simulado para testes.
 
-   ```bash
-   git clone https://github.com/wandrad3/DESBreaker.git
+## Vídeo de Teste
+
+Assista ao nosso teste no YouTube, onde demonstramos a eficácia do DESBreaker em quebrar senhas em diferentes cenários.
+
+[![Assista ao Vídeo de Teste](youtube_thumbnail.jpg)]([https://www.youtube.com/seu-link-do-video](https://www.youtube.com/watch?v=vtbXMCVAVdM))
+
+## Como Contribuir
+
+Se você quiser contribuir para o projeto, sinta-se à vontade para abrir problemas ou enviar solicitações de pull. Seu feedback é valioso!
+
+## Contato
+
+- **E-mail:** wesleyandrade298@gmail.com
+- **LinkedIn:** [Wesley de Andrade Santos](https://www.linkedin.com/in/wesley-de-andrade-santos-34a52817b/)
