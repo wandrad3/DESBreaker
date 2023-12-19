@@ -23,6 +23,10 @@ Assista ao nosso teste no YouTube, onde demonstramos a eficácia do DESBreaker e
 
 [![Assista ao Vídeo de Teste](youtube_thumbnail.jpg)]([https://www.youtube.com/seu-link-do-video](https://www.youtube.com/watch?v=vtbXMCVAVdM))
 
+
+[![Assista à Demonstração no YouTube](https://img.youtube.com/vi/vtbXMCVAVdM/0.jpg)](https://www.youtube.com/watch?v=vtbXMCVAVdM)
+
+
 ## Como Contribuir
 
 Se você quiser contribuir para o projeto, sinta-se à vontade para abrir problemas ou enviar solicitações de pull. Seu feedback é valioso!
