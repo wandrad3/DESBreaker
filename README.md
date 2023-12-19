@@ -21,8 +21,6 @@ O DESBreaker utiliza técnicas avançadas para gerar palavras e quebrar senhas c
 
 Assista ao nosso teste no YouTube, onde demonstramos a eficácia do DESBreaker em quebrar senhas em diferentes cenários.
 
-[![Assista ao Vídeo de Teste](youtube_thumbnail.jpg)]([https://www.youtube.com/seu-link-do-video](https://www.youtube.com/watch?v=vtbXMCVAVdM))
-
 
 [![Assista à Demonstração no YouTube](https://img.youtube.com/vi/vtbXMCVAVdM/0.jpg)](https://www.youtube.com/watch?v=vtbXMCVAVdM)
 
